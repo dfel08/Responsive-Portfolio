@@ -7,3 +7,12 @@
 h1 {
     padding: 15px;
 }
+
+#name {
+    background-color: #b80000;
+    padding: 15px;
+}
+
+.photos {
+    padding: 15px;
+}
