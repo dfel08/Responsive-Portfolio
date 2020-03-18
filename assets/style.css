@@ -16,3 +16,23 @@ h1 {
 #contact {
     margin: 0 auto;
 }
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+#content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+}
+
+.page-footer {
+    position: fixed;
+    bottom: 0;
+    height: 2.5rem;
+    width: 100%;
+    text-align: center;
+    background-color: #b80000;
+    color: white;
+    padding: 15px;
+}
