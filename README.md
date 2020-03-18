@@ -10,6 +10,7 @@ Please have Google Chrome installed on your machine. To download, visit https://
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Deployed Link
 
