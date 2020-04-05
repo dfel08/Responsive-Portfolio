@@ -1,6 +1,6 @@
 # Responsive-Portfolio
 
-Second Assignment from UC-Berkeley Extension Coding Bootcamp. This is an assignment to make a portfolio website. This was done with assistance from Sim and Stephon.
+Second Project from UC-Berkeley Extension Coding Bootcamp. This is my portfolio website. It was done with assistance from Sim Dhaliwal and Stephon Autery.
 
 ## Getting Started
 
