@@ -2,6 +2,12 @@ h1 {
     padding: 15px;
 }
 
+body {
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+}
+
 #name {
     background-color: #b80000;
     padding: 15px;
@@ -15,6 +21,10 @@ h1 {
 
 #contact {
     margin: 0 auto;
+}
+#photo {
+    width: 100%;
+    height: auto;
 }
 
 #page-container {
@@ -32,7 +42,8 @@ h1 {
     height: 2.5rem;
     width: 100%;
     text-align: center;
-    background-color: #b80000;
+    background-color: #B80000;
     color: white;
-    padding: 15px;
+    padding: 10px;
+    clear: both;
 }
