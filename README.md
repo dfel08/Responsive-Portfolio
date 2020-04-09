@@ -1,6 +1,6 @@
 # Responsive-Portfolio
 
-Second Project from UC-Berkeley Extension Coding Bootcamp. This is my portfolio website. It was done with assistance from Sim Dhaliwal and Stephon Autery.
+Second Project from UC-Berkeley Extension Coding Bootcamp. This is my portfolio website.
 
 ## Getting Started
 
@@ -32,4 +32,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Thanks to my mentor, David Kramer, and my family, who are a continuing source of support and inspiration.
+* Thanks to my mentor, David Kramer, and my family, who are a continuing source of support and inspiration. Thanks also to Sim Dhaliwal and Stephon Autery for helping me when I got stuck.
