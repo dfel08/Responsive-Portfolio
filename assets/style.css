@@ -22,7 +22,7 @@ body {
 #contact {
     margin: 0 auto;
 }
-#photo {
+.photo {
     width: 100%;
     height: auto;
 }
