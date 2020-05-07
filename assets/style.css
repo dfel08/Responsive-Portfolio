@@ -6,10 +6,16 @@ body {
     min-height: 400px;
     margin-bottom: 100px;
     clear: both;
+    background-image: url("background-transparent.jpeg");
+}
+
+.text-content {
+    background-color: #7c5ea6;
+    color: white;
 }
 
 #name {
-    background-color: #b80000;
+    background-color: #7c5ea6;
     padding: 15px;
 }
 
@@ -36,7 +42,7 @@ body {
     height: 2.5rem;
     width: 100%;
     text-align: center;
-    background-color: #B80000;
+    background-color: #5f4780;
     color: white;
     padding: 10px;
     clear: both;
