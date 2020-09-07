@@ -21,7 +21,7 @@ Please have Google Chrome installed on your machine. To download, visit https://
 
 * **DAN FELLOWS**
 
-- [Link to Portfolio Site](https://dfel08.github.io/Responsive-Portfolio/)
+- [Link to Portfolio Site](https://www.danfellows.co/)
 - [Link to Github](https://github.com/dfel08)
 - [Link to LinkedIn](https://www.linkedin.com/in/dan-fellows-ba88a041/)
 
